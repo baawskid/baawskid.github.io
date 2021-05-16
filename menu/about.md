@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Quantum + Gravity + Computer Science Concepts
+title: About this site
 ---
 
-Update the `menu/about.md` file to change your About page.
+This blog will be a personal journal for all my findings (mostly) concerning the following topics:
+ - The intersection of quantum theories and theories of gravity.
+ - Fundamental concepts in computer science
