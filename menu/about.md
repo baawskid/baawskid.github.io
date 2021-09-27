@@ -2,4 +2,4 @@
 layout: page
 title: About this site
 ---
-See how far I can get with this...
+This space is intended for my eyes only in which I will journal that which I have read concerning physics and in a lesser degree information theory. 
